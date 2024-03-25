@@ -1,3 +1,4 @@
+
 /********************
 Data Cleaning
 *********************/
@@ -369,3 +370,5 @@ GROUP BY cashbackamountrange
 ORDER BY Churnrate DESC
 -- Answer = Customers with a Moderate Cashback Amount (Between 100 and 200) have the highest churn rate, follwed by
 -- High cashback amount, then very high cashback amount and finally low cashback amount
+
+
